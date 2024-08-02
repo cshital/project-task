@@ -1,0 +1,14 @@
+# Ansible
+*.retry
+
+# Docker
+*.log
+
+# Kubernetes
+*.yaml
+
+# General
+*.swp
+*.bak
+*.tmp
+.DS_Store
